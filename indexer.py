@@ -1,8 +1,3 @@
-
-
-from ast import Str
-
-
 class Indexer:
 
     def __init__(
