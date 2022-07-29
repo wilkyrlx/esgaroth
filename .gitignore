@@ -1,2 +1,4 @@
 lakes.db
-/input-files/
+/csv-data/
+/geojson-data/
+/html-output/
